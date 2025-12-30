@@ -35,7 +35,10 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=krishnanandsiingh&theme=onedark&no-frame=true&row=1)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnanandsingh&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
+
 
 
 ## 🌐 Connect With Me
@@ -50,6 +53,9 @@
 
 
 ## 🐍 Contribution Snake
-![snake](https://github.com/krishnanandsingh/krishnanandsingh/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnanandsingh/krishnanandsingh/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
