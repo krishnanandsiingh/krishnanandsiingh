@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=krishnanandsingh&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=krishnanandsiingh&show_icons=true&theme=tokyonight)
 
 
 ### 🌱 Currently Learning
@@ -34,7 +34,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=krishnanandsingh&theme=onedark&no-frame=true&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=krishnanandsiingh&theme=onedark&no-frame=true&row=1&column=6)
 
 
 
@@ -51,6 +51,6 @@
 
 ## 🐍 Contribution Snake
 
-![](https://raw.githubusercontent.com/krishnanandsingh/krishnanandsingh/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/krishnanandsiingh/krishnanandsiingh/output/github-contribution-grid-snake.svg)
 
 
