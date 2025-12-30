@@ -1,3 +1,19 @@
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#00dbde,#fc00ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">
+    Hi 👋, I'm Krishna Nand Singh
+  </span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=520&lines=BCA+Student;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Web+Dev;Open+Source+Learner" />
+</p>
+
+
+
+
+
 ## Hi 👋 I'm Krishna Nand Singh  
 
 🎓 BCA Student  
