@@ -23,9 +23,8 @@
 
 ## 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,sql,html,css,js,git,github&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=python,html,css,js,git,github,mysql&theme=dark)
 
----
 
 ## 📊 GitHub Performance
 
