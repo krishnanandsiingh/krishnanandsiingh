@@ -62,7 +62,18 @@
 </a>
 </p>
 
+
+
 ---
+<h1 align="center">🚀 MY PROJECT 🚀</h1>
+
+<p align="center">
+  <a href="https://krishnanandsiingh.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Project-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+
 
 <p align="center">
 🚀 <i>Building skills today for opportunities tomorrow</i>
