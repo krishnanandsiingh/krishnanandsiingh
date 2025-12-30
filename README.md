@@ -32,18 +32,16 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanandsiingh&theme=tokyonight"/>
 </p>
 
-
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnanandsiingh&theme=matrix&no-frame=true&row=1&column=5"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=krishnanandsiingh&theme=matrix&no-frame=true&row=1&column=5)
 
 
 
 ## 🐍 Contribution Flow
 
 ![](https://raw.githubusercontent.com/krishnanandsiingh/krishnanandsiingh/output/github-contribution-grid-snake.svg)
+
 
 
 
