@@ -45,22 +45,19 @@
 
 
 
-📬 Contact & Resume
+ 🔗 Connect With Me
 
 <a href="mailto:krishnanandsingh11041@gmail.com">
-  <img src="https://img.shields.io/badge/Email-krishnanandsingh11041@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/krishna-nand-singh-994799374/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Nand%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://www.instagram.com/kriishnanandsingh/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/YOUR_ID/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="https://krishnanandsiingh.github.io/resume/" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20HTML%20Resume-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Resume-111111?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 
 
