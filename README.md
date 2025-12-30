@@ -9,12 +9,10 @@
 ### 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github)
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnanandsingh&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=krishnanandsingh&show_icons=true&theme=tokyonight)
 
----
 
 ### 🌱 Currently Learning
 - SQL
