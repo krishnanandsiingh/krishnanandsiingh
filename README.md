@@ -46,10 +46,10 @@
 ## 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_ID">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/krishna-nand-singh-994799374">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_ID">
+  <a href="https://www.instagram.com/kriishnanandsingh">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
