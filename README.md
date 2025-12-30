@@ -56,8 +56,8 @@
 <a href="https://www.instagram.com/kriishnanandsingh/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://krishnanandsiingh.github.io/resume/" target="_blank">
-  <img src="https://img.shields.io/badge/-Resume-111111?style=for-the-badge&logo=readme&logoColor=white"/>
+<a href="https://krishnanandsiingh.github.io/resume/resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-Resume-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 
