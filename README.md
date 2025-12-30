@@ -31,9 +31,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanandsiingh&show_icons=true&theme=tokyonight"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanandsiingh&theme=tokyonight"/>
 </p>
-## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=krishnanandsiingh&theme=onedark&no-frame=true&no-bg=true)
+
+ 🏆 Achievements
+
+> 🚀 Building consistency and real-world skills through daily learning and practice.
 
 
 
