@@ -31,10 +31,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnanandsiingh&show_icons=true&theme=tokyonight"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanandsiingh&theme=tokyonight"/>
 </p>
-
 ## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=krishnanandsiingh&theme=matrix&no-frame=true&row=1&column=5)
+![](https://github-profile-trophy.vercel.app/?username=krishnanandsiingh&theme=onedark&no-frame=true&no-bg=true)
+
 
 
 
