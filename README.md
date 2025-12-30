@@ -45,10 +45,10 @@
 
 ## 🌐 Find Me Online
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishna-nand-singh">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/krishna-nand-singh-994799374/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
   <a href="https://www.instagram.com/kriishnanandsingh">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"/>
   </a>
