@@ -36,6 +36,44 @@
 🔗 https://krishnanandsiingh.github.io/resume/
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Krishna%20Nand%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00E6FF&center=true&vCenter=true&width=600&lines=BCA+Student;Aspiring+Data+Scientist;Future+Software+Developer;Learning+Every+Day"/>
+</p>
+
+<p align="center">
+🎯 <b>Goal:</b> Become a problem-solver, not just a coder
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 BCA Student (Data Science)
+- 💻 Passionate about Python, SQL & Web Development
+- 🔥 Focused on real-world problem solving
+- 🚀 Consistency > Motivation
+
+---
+
+## ⚙️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github&theme=dark" />
+</p>
+
+---
+
+## 🧩 My Projects
+
+### 🌐 Portfolio Website
+🔗 https://krishnanandsiingh.github.io/portfolio/
+
+### 📄 Resume
+🔗 https://krishnanandsiingh.github.io/resume/
+
+---
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -44,6 +82,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=krishnanandsiingh&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanandsiingh&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
